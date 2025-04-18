@@ -1,4 +1,6 @@
 {
-  "item.musicmod.goodbyetoaworlddisk": "Goodbye To A World Music Disk",
-  "item.musicmod.goodbyetoaworlddisk.desc": "Porter Robinson - Goodbye to a world Tomás Paúl edition"
+  "item.musicmod.goodbyetoaworlddisk": "Music Disk",
+  "item.musicmod.goodbyetoaworlddisk.desc": "Porter Robinson - Goodbye to a world (Tomás Paúl cover)",
+  "item.musicmod.shelterdisk": "Music Disk",
+  "item.musicmod.shelterdisk.desc": "Porter Robinson & Madeon - Shelter (Tomás Paúl cover)"
 }

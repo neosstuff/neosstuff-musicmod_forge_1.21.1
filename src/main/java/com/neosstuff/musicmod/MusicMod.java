@@ -59,6 +59,7 @@ public class MusicMod
     {
         if (event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
             event.accept(ModItems.goodbyetoaworlddisk);
+            event.accept(ModItems.shelterdisk);
         }
     }
 

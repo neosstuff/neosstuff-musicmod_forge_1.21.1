@@ -21,6 +21,10 @@ public class ModSounds {
     public static final ResourceKey<JukeboxSong> GOODBYETOAWORLD_KEY = ResourceKey.create(Registries.JUKEBOX_SONG,
             ResourceLocation.fromNamespaceAndPath(MusicMod.MOD_ID, "goodbyetoaworld"));
 
+    public static final RegistryObject<SoundEvent> SHELTER = registerSoundEvent("shelter");
+    public static final ResourceKey<JukeboxSong> SHELTER_KEY = ResourceKey.create(Registries.JUKEBOX_SONG,
+            ResourceLocation.fromNamespaceAndPath(MusicMod.MOD_ID, "shelter"));
+
     private static RegistryObject<SoundEvent> registerSoundEvent(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(ResourceLocation.fromNamespaceAndPath(MusicMod.MOD_ID, name)));
     }
