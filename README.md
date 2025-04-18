@@ -6,4 +6,4 @@ This mod adds in some minecraft style covers of tracks from artists porter robin
 ------------------------------------------------------------------------------------------------------
 <h3> Right now:</h3>
 
-Only one music disk is present however, I plan to add more and also add the songs to the BGM.
+Only two music disks are present however, I plan to add more and also add the songs to the BGM.
