@@ -1,0 +1,10 @@
+{
+  "goodbyetoaworld": {
+    "sounds": [
+      {
+        "name": "musicmod:goodbyetoaworld",
+        "stream": true
+      }
+    ]
+  }
+}
